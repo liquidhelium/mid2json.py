@@ -1,3 +1,4 @@
+# 注意: 本repo已不再维护, 请改用[rust版本](https://github.com/liquidhelium/mid2json).
 # mid2json.py
 将midi文件转换为rpe谱面.
 
